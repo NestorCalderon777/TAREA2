@@ -3,7 +3,7 @@
 
 ## Descripcion:
 
-- Spotifind es una aplicacion desarrollada en lenguaje C que permite gestionar y buscar canciones de manera eficiente
+- Spotifind es una aplicacion desarrollada en lenguaje C que permite gestionar y buscar canciones de manera eficiente,
 Las canciones se cargan desde un archivo CSV y se organizan internamente usando estructuras tipo Map y List.
 
 Cada canción cuenta con los siguientes atributos:
