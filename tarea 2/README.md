@@ -28,15 +28,15 @@ Cada canción cuenta con los siguientes atributos:
 
 Pasos:
 
-- 1. Descarga y descomprime el proyecto en una carpeta.
+1. Descarga y descomprime el proyecto en una carpeta.
 
-- 2. Abre el proyecto en VS Code
+2. Abre el proyecto en VS Code
 
-- 3. Ir a Archivo --> Abrir carpeta... y seleccionar la carpeta del proyecto
+3. Ir a Archivo --> Abrir carpeta... y seleccionar la carpeta del proyecto
 
-- 4. Abre el archivo tarea2.c
+4. Abre el archivo tarea2.c
 
-- 5. Compila el programa desde la terminal integrada con:
+5. Compila el programa desde la terminal integrada con:
 ```
 gcc tarea2.c tdas/extra.c tdas/list.c tdas/map.c -o tarea2.exe
 ```
